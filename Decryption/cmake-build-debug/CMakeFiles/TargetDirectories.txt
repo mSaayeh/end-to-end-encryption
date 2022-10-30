@@ -1,0 +1,3 @@
+D:/WORKS/Orange x Creativa/End to End Encryption/Decryption/cmake-build-debug/CMakeFiles/Decryption.dir
+D:/WORKS/Orange x Creativa/End to End Encryption/Decryption/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WORKS/Orange x Creativa/End to End Encryption/Decryption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
